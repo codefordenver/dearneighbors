@@ -10,4 +10,4 @@
 
 ---
 
-### [__Download Dear Neighbors pdf__](https://github.com/codefordenver/dearneighbors/raw/master/Dear%20Neighbors.pdf "Dear Neighbors PDF")
+### [Download Dear Neighbors pdf](https://github.com/codefordenver/dearneighbors/raw/master/Dear%20Neighbors.pdf "Dear Neighbors PDF")
