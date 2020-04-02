@@ -8,6 +8,6 @@
 
 #### Print the file, fill in your contact information, leave room for others to do the same, and hang up in places those in need might still see it. 
 
-
+---
 
 ### [__Download Dear Neighbors pdf__](https://github.com/codefordenver/dearneighbors/raw/master/Dear%20Neighbors.pdf "Dear Neighbors PDF")
