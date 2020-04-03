@@ -53,5 +53,27 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
     <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
+    
+    <script>window.sa_event=window.sa_event||function(){a=[].slice.call(arguments);sa_event.q?sa_event.q.push(a):sa_event.q=[a]};</script>
+    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    
+    <script type="text/javascript">
+     window.onload = function() {
+        document.getElementById("download-link").onclick = function() {
+           sa_event("Clicked-Download-Link");
+           console.log("Triggered!");
+        };
+     };
+    </script>
+    
+    <script type="text/javascript">
+     window.onload = function() {
+        document.getElementById("download-image").onclick = function() {
+           sa_event("Clicked-Download-Image");
+           console.log("Triggered2!");
+        };
+     };
+    </script>
+    
   </body>
 </html>
