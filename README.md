@@ -12,6 +12,6 @@
 
 ## Download
 
-[![Dear Neighbors PDF Screenshot](https://raw.githubusercontent.com/codefordenver/dearneighbors/master/Dear%20Neighbors%20Screenshot.PNG {:#download-dear-neighbors-pdf-png})](https://github.com/codefordenver/dearneighbors/raw/master/Dear%20Neighbors.pdf)
+[![Dear Neighbors PDF Screenshot](https://raw.githubusercontent.com/codefordenver/dearneighbors/master/Dear%20Neighbors%20Screenshot.PNG)](https://github.com/codefordenver/dearneighbors/raw/master/Dear%20Neighbors.pdf)
 
 ### [Download Dear Neighbors pdf](https://github.com/codefordenver/dearneighbors/raw/master/Dear%20Neighbors.pdf "Dear Neighbors PDF")
