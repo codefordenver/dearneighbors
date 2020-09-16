@@ -15,3 +15,5 @@
 <a href="https://github.com/codefordenver/dearneighbors/raw/master/Dear%20Neighbors.pdf"><img src="https://raw.githubusercontent.com/codefordenver/dearneighbors/master/Dear%20Neighbors%20Screenshot.PNG" alt="Dear Neighbors Screenshot" id="download-dear-neighbors-pdf-png"/></a>
 
 ### [Download Dear Neighbors pdf](https://github.com/codefordenver/dearneighbors/raw/master/Dear%20Neighbors.pdf "Dear Neighbors PDF")
+
+### [Descarga Querido Vecino pdf (en Español)](https://github.com/codefordenver/dearneighbors/raw/master/Querido%20Vecino.pdf "Querido Vecino PDF")
